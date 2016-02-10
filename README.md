@@ -19,6 +19,8 @@ A collection of notes about things I learn day to day.
 
 ### Observables
 
+- [Create Observable From CodeMirror Event](observables/create-observable-from-codemirror-event.md)
+
 ### Typescript
 
 ## About
