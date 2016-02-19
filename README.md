@@ -7,6 +7,7 @@ A collection of notes about things I learn day to day.
 ### Categories
 
 * [Angular](#angular)
+* [CSS](#css)
 * [Javascript](#javascript)
 * [Observables](#observables)
 * [Typescript](#typescript)
@@ -14,6 +15,9 @@ A collection of notes about things I learn day to day.
 ---
 
 ### Angular
+
+### CSS
+- [Control spacing between flexbox items](css/control-spacing-between-flexbox-items.md)
 
 ### Javascript
 
