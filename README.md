@@ -18,6 +18,7 @@ A collection of notes about things I learn day to day.
 
 ### CSS
 - [Control spacing between flexbox items](css/control-spacing-between-flexbox-items.md)
+- [Position a flex item independently along the main axis](css/position-flex-item-independently-along-main-axis.md)
 
 ### Javascript
 
