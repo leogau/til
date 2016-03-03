@@ -28,6 +28,8 @@ A collection of notes about things I learn day to day.
 
 ### Typescript
 
+- [this vs _this](typescript/this-vs-_this.md)
+
 ## About
 
 Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til)
